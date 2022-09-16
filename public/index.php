@@ -4,7 +4,7 @@
 
     <title>Welcome</title>
     <meta name="viewport" content="width=device-width, initial-scale=1">
-    <link href="folder/favicon.ico" rel="icon" sizes="16x16" type="image/png" />
+    <link href="folder/favicon.ico" rel="icon" sizes="16x16" type="image/jpg" />
 
 </head>
 <body>
@@ -21,7 +21,7 @@
 
 <style>
     body {
-        background-image: url('walking.png');
+        background-image: url('walking.jpg');
     }
 </style>
 
